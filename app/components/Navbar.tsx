@@ -10,7 +10,7 @@ const navItems = {
   "/": { name: "home" },
   "/projects": { name: "projects" },
   "/about": { name: "about" },
-  "/resume.pdf": { name: "resume" },
+  // "/resume.pdf": { name: "resume" },
 };
 
 const NavItem = ({ path, name, pathname }) => {
